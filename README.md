@@ -13,8 +13,8 @@ Welcome to my repository! This private repository documents my journey through t
 - Fundamental JavaScript concepts
 - Advanced JavaScript techniques
 - Problem-solving and algorithm development
-- Code optimization and best practices
-- Debugging and testing
+- Some Projects
+- Data Structures
 
 ### Purpose
 
