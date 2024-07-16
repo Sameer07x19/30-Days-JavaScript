@@ -1,23 +1,18 @@
 ## 30 Days of JavaScript Challenge: Day 3
 
 ### Overview
-On the third day of the 30-day JavaScript challenge, I practiced working with conditional statements, switch cases, and ternary operators. These concepts are crucial for making decisions in code and controlling the flow of execution based on different conditions.
+On the third day of the 30-day JavaScript challenge, I focused on implementing various functions and conditional statements to handle different scenarios effectively.
 
-### What I Learned
-1. **Conditional Statements**:
-   - Used `if-else` statements to evaluate conditions and execute different blocks of code based on the conditions.
-   - Implemented functions to check if a number is positive, negative, or zero; to determine voting eligibility based on age; and to find the largest number among three numbers.
-
-2. **Switch Cases**:
-   - Applied `switch` statements to execute code based on the current day of the week and to determine grades based on marks.
-
-3. **Ternary Operator**:
-   - Utilized the ternary operator for concise conditional expressions, such as checking if a number is even or odd.
-
-4. **Leap Year Calculation**:
-   - Created a function to check if a given year is a leap year, using nested `if-else` statements for the logic.
+### Tasks Completed
+1. **Check Number Function**: Implemented a function to determine if a number is zero, positive, or negative.
+2. **Vote Eligibility Function**: Created a function to check if a person is eligible to vote based on their age.
+3. **Find Largest Number Function**: Developed a function to find the largest number among three given numbers.
+4. **Switch Statement for Weekdays**: Used a `switch` statement to display the current day of the week.
+5. **Switch Statement for Grading**: Utilized a `switch` statement to assign grades based on marks.
+6. **Even or Odd Check**: Checked if a number is even or odd using a ternary operator.
+7. **Leap Year Function**: Implemented a function to determine if a given year is a leap year.
 
 ### Additional Notes
-Day 3 helped enhance my understanding of decision-making in JavaScript, which is essential for writing dynamic and responsive code.
+Day 3 enhanced my skills in writing functions and using conditional statements effectively in JavaScript, crucial for developing logic-driven applications.
 
 **Day 3 Completed 🌊**
