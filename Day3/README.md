@@ -4,6 +4,7 @@
 On the third day of the 30-day JavaScript challenge, I focused on implementing various functions and conditional statements to handle different scenarios effectively.
 
 ### Tasks Completed
+
 1. **Check Number Function**: Implemented a function to determine if a number is zero, positive, or negative.
 2. **Vote Eligibility Function**: Created a function to check if a person is eligible to vote based on their age.
 3. **Find Largest Number Function**: Developed a function to find the largest number among three given numbers.

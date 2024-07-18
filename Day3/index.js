@@ -110,4 +110,4 @@ function leapYear (year){
 }
 // leapYear(2020)
 
-// Day 3 completed 🌊
+// Day 3 Completed 🌊
