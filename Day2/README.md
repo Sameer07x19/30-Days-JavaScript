@@ -1,7 +1,7 @@
 ## 30 Days of JavaScript Challenge: Day 2
 
 ### Overview
-On the second day of the 30-day JavaScript challenge, I worked on various arithmetic, comparison, and logical operations. These are basic yet essential concepts in programming, which help in building more complex logic.
+On the second day of the 30-day JavaScript challenge, I worked on various arithmetic, comparison, and logical operations. These are basic yet essential concepts in programming, which help in building more complex logics.
 
 ### What I Learned
 1. **Arithmetic Operations**:

@@ -42,6 +42,6 @@ let f = a > b || c === d
 
 // Task 14
 let g = -10
-// console.log(g >= 0 ? "Positive" : "Negative");
+console.log(g >= 0 ? "Positive" : "Negative");
 
 // Day 2 completed 🌊
