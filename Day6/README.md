@@ -4,7 +4,7 @@
 On the sixth day of the 30-day JavaScript challenge, I focused on arrays and how to use them effectively in JavaScript.
 
 ### What I Learned
-1. **Array Basics**:
+1. **Array Basics **:
    - Created an array of numbers and accessed the first and last elements.
 
 2. **Array Modification**:

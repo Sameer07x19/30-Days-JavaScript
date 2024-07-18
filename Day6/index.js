@@ -55,8 +55,8 @@ let Matrix_2d = [
 // Matrix_2d.forEach((row) => console.log(row))
 
 // Task 13
-// console.log(Matrix_2d[0][0]);
-// console.log(Matrix_2d[0][1]);
-// console.log(Matrix_2d[2][1]);
+console.log(Matrix_2d[0][0]);
+console.log(Matrix_2d[0][1]);
+console.log(Matrix_2d[2][1]);
 
 // Day 6 completed 🌊
