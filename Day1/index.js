@@ -36,7 +36,7 @@ console.log("New value: " + test1)
 
 // Task 6
 const test2 = 8;
-console.log("initial value: " + test2)
+// console.log("initial value: " + test2)
 // cannot redeclare or assign a constant variable
 // test2 = 7; 
 // console.log("New value: " + test2)

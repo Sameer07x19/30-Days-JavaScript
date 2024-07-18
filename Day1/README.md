@@ -10,7 +10,7 @@ On the first day of the 30-day JavaScript challenge, I focused on the basics of 
 2. **Data Types**:
    - Worked with different data types like numbers, strings, booleans, objects, and arrays.
 
-3. **Console Methods**:
+3. **Console Method**:
    - Used `console.log` to display values and `console.table` to show data types in a table format.
 
 4. **Constants**:
