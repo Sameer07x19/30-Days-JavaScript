@@ -31,7 +31,7 @@ console.table([typeof num,typeof str,typeof bool,typeof obj,typeof arr]) //💪
 // Task 5
 let test1 = 6;
 console.log("initial value: " + test1)
-test = 7;
+test1 = 7;
 console.log("New value: " + test1)
 
 // Task 6
