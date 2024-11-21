@@ -53,7 +53,7 @@ for (let i = 1; i < 6; i++) {
 for (let i = 0; i < 11; i++) {
     if(i == 5){
         // console.log(`Number ${i} Detected`)
-        continue
+        continue // continue the loop from the next iteration and skip the loop in the current iteration
     }
     // console.log(`The number : ${i}`)
 }
@@ -62,7 +62,7 @@ for (let i = 0; i < 11; i++) {
 for (let i = 0; i < 11; i++) {
     if(i == 7){
         // console.log(`Number ${i} Detected`)
-        break
+        break // exit the loop
     }
     // console.log(`The number : ${i}`)
 }
