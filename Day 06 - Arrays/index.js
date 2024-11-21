@@ -31,7 +31,7 @@ let newArr2 = arrOfNumbers.filter((num) => num % 2 == 0)
 // console.log(newArr2);
 
 // Task 9
-let initialValue = 0
+let initialValue = 0 // this is the initial value for accumulator and curretvalue is the current array element
 let sumOfArr = arrOfNumbers.reduce( (accumulator,currentValue) => accumulator + currentValue,initialValue
 )
 // console.log(sumOfArr);
