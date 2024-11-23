@@ -3,4 +3,4 @@ function greeting
     console.log("Good Morning " + name);
 }
 
-module.exports = greeting
+export default greeting;

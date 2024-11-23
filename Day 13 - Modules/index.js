@@ -14,9 +14,9 @@ const {sum,diff,prod} = require("./Modules/module3")
 console.log(prod(2,6));
 
 
-// Task 4
-const greeting = require("./Modules/module4")
-greeting("Sam")
+// Task 4 // cant use import and require in the same file bcoz require is a commonjs module and import is a ES module 
+// import greeting from './Modules/module4.js'
+// greeting("Sam")
 
 
 // Task 5
